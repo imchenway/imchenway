@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <a href="ninomyemail@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=imchenway&repo=the-fuck-leetcode"/>
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=imchenway&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
@@ -41,4 +43,4 @@ Here are some ideas to get you started:
 
 ### 🔥 Project
 
-- 🔰 [David Chan's Blog](https://imchenway.com) My Blog.
+- 🔰 [David Chan's Blog](https://imchenway.com)
