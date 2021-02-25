@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=imchenway&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
+### 👨‍🚒 About me
+
+- 🔭 I’m currently working on something interesting.
+- 📫 Welcome to [David Chan's Blog](https://imchenway.com).
+- ⚡ Fun fact: Nothing.
