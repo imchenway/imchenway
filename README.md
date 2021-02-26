@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 Please email via imchenway@gmail.com to reach me.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imchenway&layout=compact&hide=pug,stylus&card_width=450"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imchenway&layout=default&hide=pug,stylus&card_width=440"/>
 
 
 ### 🔥 Project
