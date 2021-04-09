@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=imchenway&repo=the-fuck-leetcode"/>
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=imchenway&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=imchenway&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800"/> -->
 
 
 ### 👨‍🚒 About me
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 Please email via imchenway@gmail.com to reach me.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imchenway&hide_border=true&layout=compact&hide=pug,stylus&card_width=445"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imchenway&hide_border=true&layout=compact&hide=pug,stylus&card_width=445"/> -->
 
 
 ### 🔥 Project
