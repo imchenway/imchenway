@@ -34,13 +34,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something interesting.
 - 😄 Welcome to [David Chan's Blog](https://imchenway.com).
-- ⚡ Fun fact: Nothing.
 - 💬 Ask me about anything.
 - 📫 Please email via imchenway@gmail.com to reach me.
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imchenway&hide_border=true&layout=compact&hide=pug,stylus&card_width=445"/> -->
-
-
-### 🔥 Project
-
-- 🔰 [David Chan's Blog](https://imchenway.com)
